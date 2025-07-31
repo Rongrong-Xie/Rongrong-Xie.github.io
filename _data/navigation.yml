@@ -1,0 +1,28 @@
+main:
+  - title: "About Me"
+    url: "#about-me"
+
+  - title: "Education"
+    url: "#education"
+
+  - title: "Research"
+    url: "#research"
+
+  - title: "Publications"
+    url: "#-publications"
+
+  - title: "Service"
+    url: "#academic-service"
+
+  - title: "Work Experience"
+    url: "#work-experience"
+
+  - title: "Extracurricular"
+    url: "#extracurricular"
+
+  - title: "Honors & Awards"
+    url: "#-honors-and-awards"
+
+  - title: "Skills & Languages"
+    url: "#skills"
+

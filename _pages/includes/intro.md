@@ -1,0 +1,3 @@
+# 🧑‍🎨About Me
+
+Hi, I'm Rongrong Xie (谢榕蓉)—an idealist and explorer dedicated to the future of education. Currently, I'm studying Applied Linguistics and Second Language Acquisition at Oxford. My journey is fueled by curiosity, a passion for collaboration, and a commitment to inspiring young minds—especially in communities with limited educational resources. I believe in making education equitable, empowering others through teamwork, and creating innovative opportunities that unlock everyone's potential. Excited to connect, learn, and shape a brighter world together! 🌍✨📚
