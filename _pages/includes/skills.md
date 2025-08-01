@@ -1,14 +1,15 @@
-# 🛠Skills & Languages
+# 🛠Skills & Languages & Interests
 
-## Research Skills
+## ◽️Research Skills
 - **Citespace** (Bibliometric and Literature Visualization)
-- **SPSS, R** (Quantitative Data Analysis)
+- **SPSS, R, Python** (Quantitative Data Analysis)
 - **MAXQDA** (Qualitative Data Analysis and Coding)
 
-## Languages
-- **Mandarin Chinese** (Native)
-- **English** (Fluent, Certificate in Advanced Interpretation issued by Shanghai International Studies University)
+## ◽️Languages
+- **Mandarin** (Can read, write, speak, understand and peer review)
+- **English** (Can read, write, speak, understand and peer review; Certificate in Advanced Interpretation issued by Shanghai International Studies University)
 - **French** (A2 Level)
+- **Cantonese** (Heritage language)
 
-## Interests
-Education, Reading, Traveling, Piano, Chinese flute 
+## ◽️Interests
+- Education, Reading, Traveling, Piano, Chinese flute 

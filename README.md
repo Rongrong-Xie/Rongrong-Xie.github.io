@@ -30,12 +30,12 @@
 
 ## 页面修改
 ```
-├── _config.yml                # 配置文件
+├── _config.yml                # 左侧配置文件
 ├── _data/
-│   └── navigation.yml         # 导航菜单
-├── _pages/
-│   ├── about.md               # 主页
-│   └── includes/              # 主页各部分内容
+│   └── navigation.yml         # 顶部导航菜单
+├── _pages/                    # 页面主要内容
+│   ├── about.md               # 主页，作用将各个子页面嵌入
+│   └── includes/              # 主页各部分内容文件夹
 │       ├── intro.md           # About Me 个人简介
 │       ├── education.md       # 教育背景与培训
 │       ├── pub.md             # Publications 发表论文

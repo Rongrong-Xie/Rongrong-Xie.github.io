@@ -1,6 +1,6 @@
 # 📝Publication and Conference Presentation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Educational Technology in Higher Education</div><img src='../../images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../../images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Factors influencing positive perceptions of hybrid teaching in higher education: a case study of an engineering university**](https://doi.org/10.1186/s41239-025-00521-5) | 2025<br/>
@@ -12,7 +12,7 @@ Qiong L, **Rongrong X**, Minhui L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Research in Educational Studies, University of Oxford</div><img src='../../images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../../images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Enhancing EFL Conversations: A Comparative Study of AI and the Human Teacher. Paper presented at The 2025 Students** | 2025<br/>
@@ -27,7 +27,7 @@ Qiong L, **Rongrong X**, Minhui L
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">To be published</div><img src='../../images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../../images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Factors of Pre-service English Teachers’ Behavior Intention on AI in Training and Future Teaching** | 2024<br/>
@@ -41,7 +41,7 @@ Qiong L, **Rongrong X**, Minhui L
 </div>
 </div>
 
-<div class='paper-box-end'><div class='paper-box-image'><div><div class="badge">Paper presented at The 2023 International Conference of Artificial Intelligence and Technology-Enhanced Language Learning</div>
+<div class='paper-box'><div class='paper-box-image'><div>
 <img src='../../images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

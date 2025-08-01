@@ -23,8 +23,8 @@ redirect_from:
 <span class='anchor' id='academic-service'></span>
 {% include_relative includes/service.md %}
 
-<span class='anchor' id='work-experience'></span>
-{% include_relative includes/work.md %}
+<span class='anchor' id='work-internship'></span>
+{% include_relative includes/work-internship.md %}
 
 <span class='anchor' id='extracurricular'></span>
 {% include_relative includes/extracurricular.md %}

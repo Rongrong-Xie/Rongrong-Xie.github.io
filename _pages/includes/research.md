@@ -1,13 +1,13 @@
 # 🔬Research Experience
 
-## Current Research Projects
+## ◽️Current Research Projects
 
 ### Research Assistant, AI and Creativity Bibliometric Study (Ongoing) | 04/2025-Present
 "AI + Future Innovative Talents' Digital Creativity Enhancement Path and Evaluation Mechanism" Funded by: Provincial Higher Education Society Project; Guangdong Provincial Higher Education Association Project (24GYB209)
 - Served as a principal researcher in screening and analyzing over 7,000 relevant publications.
 - Employed CiteSpace to produce essential visualizations, including: Clustering Maps (identifying thematic clusters across the literature); Keyword Pathways (tracking the evolution of core concepts); Burst Detection (highlighting emerging research trends)
 
-## Past Research Projects
+## ◽️Past Research Projects
 
 ### Research Assistant, Horizontal Role and Vertical Development of Working Memory and Vocabulary Acquisition | 05/2023-10/2023
 National Social Science Foundation of China (NSFC) Project (Project No. 22BYY182)
