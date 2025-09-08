@@ -15,11 +15,11 @@ Qiong L, **Rongrong X**, Minhui L
 <div class='paper-box'><div class='paper-box-image'><div><img src='../../images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Enhancing EFL Conversations: A Comparative Study of AI and the Human Teacher. Paper presented at The 2025 Students** | 2025<br/>
+**Enhancing EFL Conversations: A Comparative Study of AI and the Human Teacher.** | 2025 Paper presented at The 2025 Students’Ongoing Research in Educational Studies, University of Oxford<br/>
 **Rongrong X**
 - Utilized a mixed-method design to analyze and compare participants' EFL conversation experiences with AI and the human teacher.
 - Employed MANOVA to assess linguistic differences in the speaking conversations of AI and human teachers. 
-- Examined language features such as lexical richness, social words, affective words, positive emotion words, positive emotion words, negative emotion words, and words of assent.
+- Examined language features such as lexical richness, social words, affective words,positive emotion words, negative emotion words, and words of assent.
 - Used R for data processing and visualization.
 - Conducted thematic analysis of interview transcripts and stimulated recall sessions. 
 - Explored participants' perceptions of AI versus human instructors, focusing on language characteristic and interaction dynamics.
@@ -30,7 +30,7 @@ Qiong L, **Rongrong X**, Minhui L
 <div class='paper-box'><div class='paper-box-image'><div><img src='../../images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exploring Factors of Pre-service English Teachers’ Behavior Intention on AI in Training and Future Teaching** | 2024<br/>
+**Exploring Factors of Pre-service English Teachers’ Behavior Intention on AI in Training and Future Teaching.** | 2024 Presented at 1st XJTLU International Conference on Applied Linguistics in the AI Era （The best presentation award）<br/>
 **Rongrong, Xie**
 - Utilized structural equation modeling (SEM) to validate an extended model combining the UTAUT and TPACK frameworks, referred to as the AI-TPACK model.
 - Incorporated ethical considerations and perceived risks to reconstruct these established models.
@@ -45,7 +45,7 @@ Qiong L, **Rongrong X**, Minhui L
 <img src='../../images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pre-Service English Teachers’ Self-Efficacy in the Integration of Technology.** | 2023<br/>
+**Pre-Service English Teachers’ Self-Efficacy in the Integration of Technology.** | 2023 Paper presented at The 2023 International Conference of Artificial Intelligence and Technology-Enhanced Language Learning. Shanghai<br/>
 **Rongrong, X**
 - Employed a multiphase sequential descriptive mixed-method approach.
 - **Phase 1:** Investigated the overall capacity of pre-service English teachers to integrate technology into teaching.

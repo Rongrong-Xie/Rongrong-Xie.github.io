@@ -14,13 +14,6 @@
   - Independently gave English lessons to the senior students for 10 times and participated in the organization of the meeting on academic growth planning for the seniors in high school.
   - Engaged in a provincial project focusing on cultural perception of English textbooks for high schools and contributed to questionnaire design, collection and the final academic writing.
 
-
-## ◽️Academic Conference Coordination
-- **Sub-venue Session Chair & Moderator, 2024 Global English Education China Assembly**,  Zhuhai, China 06/2024
-  - Coordinated pre-conference tasks, including task allocation, agenda planning, and liaison with keynote speakers.
-  - Served as the principal moderator for a dedicated session, guiding discussions, encouraging meaningful dialogue among panelists, and engaging audience participation.
-  - Orchestrated logistical and technical support throughout the sub-venue proceedings to ensure a seamless and professional conference experience.
-
 ## ◽️International Education Collaboration
 - **Mandarin Teacher**, Kingsford Community School, London, UK (09/2023-11/2023)
   - Selected to be a member in the teaching team from BNU and all the expenses in the UK are fully sponsored by the school.

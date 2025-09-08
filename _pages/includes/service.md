@@ -31,8 +31,3 @@
   - Contributed to White Paper on Digital Heritage Conservation.
   - Conducted capacity-building programs for 100+ multilingual volunteers, specializing in cross-cultural communication protocols and diplomatic etiquette training.
   - Served as lead interpreter for high-level UN delegations, including Heads of State and agency directors during multilateral summits.
-
-## ◽️UNESCO World Heritage Management Support
-- **Intern**, Huangshan World Heritage Site Management Office, Huangshan, China (03/2022-05/2022)
-  - Assisted in translation and coordination of international conferences.
-  - Gained valuable insights into the management of UNESCO World Heritage Sites and their role in sustainable development. 
