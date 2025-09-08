@@ -1,11 +1,13 @@
 # 🎖Honors & Awards
 
 ## ◽️Academic Excellence
+- **Academic Bursary (£750), Kellogg College, University of Oxford** (2025)
 - **Excellent Graduate of BNU** (2024)
 - **Excellent Graduate of Huitong College, BNU** (2024)
 - **First-Class Scholarship of Huitong College, BNU** (2023)
 - **BNU First-class scholarship** (twice, 2021, 2022)
 - **BNU Excellent Student Award** (twice, 2021, 2022)
+
 
 ## ◽️Academic Competitions
 - **Third Prize** in the English Major Group of the "English World" Cup National College English Writing Contest (2023)

@@ -14,10 +14,6 @@
   - Served as the principal moderator for a dedicated session, guiding discussions, encouraging meaningful dialogue among panelists, and engaging audience participation.
 
 ## ◽️Academic Leadership
-- **Head of Event Services**, Science and Technology Innovation Centre, Beijing Normal University (09/2020-09/2022)
-  - Coordinated university-level innovation lectures, academic seminars, and competitions.
-  - Managed cross-departmental resources for 12+ annual academic events.
-
 - **Senior Academic Tutor**, "Partners for Learning" Program (10/2022-06/2024)
   - Provided personalized academic guidance to 120+ undergraduates.
   - Developed "Academic Survival Guide" workshop series with 65% participation increase.
